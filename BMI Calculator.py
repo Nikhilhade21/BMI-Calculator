@@ -18,4 +18,4 @@ if BMI>0:
     else:
          print("you are morbidly obese.")    
 else:
-    print("Enter valid inputs")
+    print("Enter valid input")
