@@ -7,7 +7,7 @@ print(BMI)
 if BMI>0:
     if (BMI<18):
           print("you are underwight.")
-    elif(BMI<=24.9):
+    elif(BMI<=24.6):
          print("you are normal weight.")
     elif(BMI<29.9):
          print("you are overweight.")
